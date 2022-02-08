@@ -1,0 +1,6 @@
+HOST= 'localhost',
+ PORT=5432,
+ USER_NAME= 'postgres',
+ PASSWORD= '****',
+ DATABASE= 'University',
+ CURRENCY='doller'
